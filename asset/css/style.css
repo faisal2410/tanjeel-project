@@ -3,4 +3,11 @@ body{
 }
 .tanjeel-heading{
     color: tomato;
+    text-align: center;
+}
+.top-banner{
+    display:flex;
+}
+.top-banner-left{
+    display:flex;
 }
